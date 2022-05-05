@@ -1,0 +1,1 @@
+# CoinDetectPyQt5UI
